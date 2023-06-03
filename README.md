@@ -1,6 +1,6 @@
 # Directory Size Analyzer
 
-The Directory Size Analyzer is a PowerShell script that analyzes the size of a directory and its subdirectories. It provides information about the total size, number of files, and number of subdirectories in the specified directory.
+The Directory Size Analyzer is a (PowerShell,ruby, bash) script that analyzes the size of a directory and its subdirectories. It provides information about the total size, number of files, and number of subdirectories in the specified directory.
 
 ## Features
 
@@ -10,9 +10,7 @@ The Directory Size Analyzer is a PowerShell script that analyzes the size of a d
 - File and Subdirectory Count: Counts the number of files and subdirectories in the specified directory.
 - Output: Displays the calculated size, number of files, and number of subdirectories.
 
-## Prerequisites
 
-- Windows OS with PowerShell installed.
 
 ## Usage
 
@@ -24,6 +22,9 @@ The Directory Size Analyzer is a PowerShell script that analyzes the size of a d
 
     ```
     .\directory_size_analyzer.ps1
+    .\file_analyzer.rb
+    .\file_analyzer.sh
+
     ```
 
 4. Follow the prompts to enter the directory path you want to analyze.
